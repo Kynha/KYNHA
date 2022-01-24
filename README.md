@@ -1,16 +1,19 @@
-### Hi there 👋
+![](	https://s4.aconvert.com/convert/p3r68-cdx67/a8f5m-eu7pg.gif)
 
-<!--
-**Kynha/KYNHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- Sou Designer UI/UX , Front-End e estudo Eng. de Designer !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: VUE JS / REACT / JS / HTML / CSS/ FIGMA/ ADOBE
+
+
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/g%C3%A9rsyka-gregorio//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://dribbble.com/KYNHA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@gersykacarollyne)  
+
+
+
+
+
