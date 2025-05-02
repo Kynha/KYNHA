@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center">✨ Hello, I'm <span style="color:#4CAF50">Gérsyka Gregório</span> ✨
+<h1 align="center"> <img width="40" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN5ZWdzNnlnMm1iMTNwenQ3dmh0aG5qNnY1d3FxN2o3NmhtbzFqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l46CySk55r1wUpkOs/giphy.gif"> Hello, I'm <span style="color:#4CAF50">Gérsyka Gregório</span> <img width="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxyaXE0NjdmcHgzMG51bWtjNWY2ZTNkNjh4Yzl5NG1xdXd4b2doYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26BRubJmtApsJQW8U/giphy.gif"> 
 
 <!-- Descrição Curta -->
 </h1> <p align="center"> I'm a <b>technology enthusiast</b> with an unrelenting passion for <span style="color:#FF6347">programming</span> and <span style="color:#1E90FF">innovation</span>. Always seeking challenges that allow me to learn, create, and transform ideas into creative solutions. </p>
@@ -7,11 +7,12 @@
 <!-- Ícones de Redes Sociais -->
 <p align="center">
   <a href="https://linkedin.com/in/gersyka-gregorio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-brightgreen.svg" alt="LinkedIn">
+    <img  width="40" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">
+    
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U5Y3JxaThzZXgxdjY0M2s5bm9qNzU2enhhM244Y3Q5ZHhobzR5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BtsLoqOmLpGdsdl3nd/giphy.gif" width="30"> A little more about me... 
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/f3/3b/8b/f33b8b87db4ef18d8bba5dc741ad0f70.gif" />
+<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84NjUzcm55bTEwYTV3bGUyaTZxcXNwMW1pamh4aGU5Nnk0emd4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YByDDOwG5AAqyaFWKY/giphy.gif" />
 
 ```kotlin
 object gersyka {
@@ -37,7 +38,8 @@ const anmol = {
 
 💾 Databases: MySQL, SQL & MongoDB
 
-🌐 QA: Cypress, Postman, JUnit, Eclipse, IntelliJ, VSCode, Cucumber
+🌐 QA: Cypress, Postman, RestAsured, Swagger, Playwright, Selenium, Eclipse, IntelliJ, VSCode.
+
 
 
 
