@@ -129,21 +129,25 @@ const gersyka = {
 
 ## ✧ Como eu trabalho
 
-```text
+<div align="center">
+<pre>
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
 │  observar    │ ──▶ │  prototipar  │ ──▶ │  quebrar     │
-│  o usuário   │     │  a experiência│     │  de propósito│
+│  o usuário   │     │ a experiência│     │ de propósito │
 └──────────────┘     └──────────────┘     └──────────────┘
          │                                       │
          └──────────────▶  refinar ◀─────────────┘
-```
+</pre>
+</div>
 
-> Design é a chave para conectar pessoas e marcas — com acessibilidade e qualidade no centro.
+<p align="center">
+  <i>Design é a chave para conectar pessoas e marcas — com acessibilidade e qualidade no centro.</i>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quality%20is%20not%20an%20act%2C%20it%20is%20a%20habit.&author=Aristotle" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quality%20is%20not%20an%20act%2C%20it%20is%20a%20habit.&author=Aristotle" alt="quote" />
 </p>
 
 <p align="center">
