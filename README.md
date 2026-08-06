@@ -72,38 +72,6 @@ const gersyka = {
 
 ---
 
-## ✦ Em construção / em foco
-
-```diff
-+ UXQA Boost — CLI + dashboard unindo QA Automation e UX (TCC)
-+ CTFL Quest — quiz gamificado ISTQB Foundation 4.0
-~ Explorando generative AI aplicada a testes e design systems
-```
-
-<p align="center">
-  <a href="https://github.com/Kynha/APILibrary">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kynha&repo=APILibrary&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117" alt="APILibrary" />
-  </a>
-  <a href="https://github.com/Kynha/TesteLoginDIO">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kynha&repo=TesteLoginDIO&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117" alt="TesteLoginDIO" />
-  </a>
-</p>
-
----
-
-## ◈ Sinais do GitHub
-
-<p align="center">
-  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kynha&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kynha&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kynha&theme=transparent&hide_border=true&ring=4CAF50&fire=FF6347&currStreakLabel=4CAF50&sideLabels=c9d1d9&dates=8b949e&background=0D1117" alt="GitHub streak" />
-</p>
-
----
-
 ## ✧ Como eu trabalho
 
 <div align="center">
