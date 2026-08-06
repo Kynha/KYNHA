@@ -53,30 +53,7 @@ const gersyka = {
 ## ⌘ Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,figma,mongodb,mysql,cypress,postman,selenium,vscode,idea&theme=dark" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <br/>
-  <!-- QA -->
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/RestAssured-5C2D91?style=for-the-badge&logo=apachemaven&logoColor=white" alt="RestAssured" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <br/>
-  <!-- Data + Design -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img width="560" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,figma,mongodb,mysql,cypress,postman,selenium,vscode,idea&theme=dark&perline=16" alt="Tech stack icons" />
 </p>
 
 <details>
@@ -104,11 +81,11 @@ const gersyka = {
 ```
 
 <p align="center">
-  <a href="https://github.com/Kynha/uxqa-boost">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kynha&repo=uxqa-boost&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117" alt="uxqa-boost" />
+  <a href="https://github.com/Kynha/APILibrary">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kynha&repo=APILibrary&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117" alt="APILibrary" />
   </a>
-  <a href="https://github.com/Kynha/themis-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kynha&repo=themis-landing&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117" alt="themis-landing" />
+  <a href="https://github.com/Kynha/TesteLoginDIO">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kynha&repo=TesteLoginDIO&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117" alt="TesteLoginDIO" />
   </a>
 </p>
 
@@ -117,12 +94,12 @@ const gersyka = {
 ## ◈ Sinais do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kynha&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kynha&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kynha&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=FF6347&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kynha&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kynha&theme=transparent&hide_border=true&ring=4CAF50&fire=FF6347&currStreakLabel=4CAF50&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Kynha&theme=transparent&hide_border=true&ring=4CAF50&fire=FF6347&currStreakLabel=4CAF50&sideLabels=c9d1d9&dates=8b949e&background=0D1117" alt="GitHub streak" />
 </p>
 
 ---
